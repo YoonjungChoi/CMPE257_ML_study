@@ -1,5 +1,8 @@
 # CMPE257_ML_study
 
+Professor: Simon Shim
+
+
 ## homeworks
 
 ## Team Project
